@@ -1,13 +1,9 @@
 # COLX_585_group_project
 
 
-## Team members:
+## Final Presentation Link 
+[Presentation Link](https://github.com/MistryWoman/Classifying-human-text-from-GPT2-generated-text/blob/master/Milestone4/COLX_585_group3_presentation.pptx)
 
-Komal
-
-Millie
-
-Zoe
 
 ## Milestones:
 
