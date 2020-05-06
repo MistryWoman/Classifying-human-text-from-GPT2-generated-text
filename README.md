@@ -1,4 +1,4 @@
-# COLX_585_group_project
+# COLX_585_Trends_in_compuational_linguistics_project
 
 
 ## Final Report and Presentation Link 
