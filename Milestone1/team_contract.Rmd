@@ -1,0 +1,34 @@
+---
+title: "Team Contract"
+output: github_document
+---
+
+**Project:**  Binary text classification of human-generated text and GPT-2 generated text with neural network models  
+**Team members:**  Komal Mistry, Zoe Xu, Millie Lou  
+**Date:**  April 1, 2020
+
+#### Meeting Expectations
+
+- A private Slack channel comprised of members was created. Given the circumstances, conference calls over Slack is our main channel for conducting meetings. 
+- We will meet virtually after CL585_trends classes on Mondays and Wednesdays to (briefly) discuss how the lecture impacts our project (e.g., any new skills and techniques introduced in class that is applicable to our project?). 
+- We will meet during lab time on Tuesday afternoons. The goal is to complete as much as we can prior to lab, so that during lab we can consult the lab instructor or TA on any outstanding issues. 
+- We can schedule more meetings on an ad-hoc basis with advance notice. Everyone is available on weekday evenings and weekends.
+- Minutes will be taken at each meeting and the minute-taker will share the file with all members in a timely manner.
+
+#### Communication Expectations
+
+- We will follow the Code of Conduct described below in how we will communicate with each other. 
+
+#### Project Management Expectations
+
+- Tasks will be assigned democratically based on project needs at the start of the week, following the current milestone as a guideline. For example, the current assignment is:
+    - Github repo,  Evaluation of Proposal, dataset cleanup - Zoe
+    - Main parts of Proposal - Komal
+    - Teamwork Contract, Literature Review of Proposal - Millie 
+- We aim to complete milestones by Saturdays at 6pm. 
+
+#### Code of Conduct Expectations
+
+- We will treat each other with respect, consideration and kindness. 
+- Inclusivity is important and everyone's ideas and opinions will be heard.
+- Any disagreements or conflicts will be discussed openly and in a constructive manner.
